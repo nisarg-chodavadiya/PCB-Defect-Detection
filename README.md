@@ -8,6 +8,5 @@ I used a very less number of images from this huge dataset which is available at
 This object detection pipeline I got from one youtube course which is available at https://www.youtube.com/watch?v=yqkISICHH-U&list=LL&index=29&t=12011s.
 
 # Model
-Pretrained mdoel ssd_resnet50_v1_fpn_640x640_coco17_tpu-8 used to train on defects. Trained on colab GPU.
+Pretrained mdoel ssd_resnet50_v1_fpn_640x640_coco17_tpu-8 used to train on defects. Trained on colab GPU. After training more images, it can be a smaller box around the defective thick track.
 ![image](https://user-images.githubusercontent.com/75474944/123749489-1d86ba80-d8d3-11eb-9117-06269ab98ee5.png)
-After training more images, it can be a smaller box around the defective thick track.
