@@ -2,7 +2,7 @@
 Problem Statement: AI Visual Inspection with custom object detection to replace any possible manual visual inspection in PCB manufacturing for common PCB Defects.
 
 # Dataset
-I used a very less number of images from this huge dataset which is available at https://www.dropbox.com/s/32kolsaa45z2mpj/PCB_DATASET.zip?dl=0.
+I used a very less number of images and relabeled (annotation) also from this huge dataset which is available at https://www.dropbox.com/s/32kolsaa45z2mpj/PCB_DATASET.zip?dl=0.
 Contributer of that dataset: https://github.com/Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB
 
 # Object Detection (Well Documented Code)
