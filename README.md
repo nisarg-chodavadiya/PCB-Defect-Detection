@@ -6,7 +6,7 @@ I used a very less number of images and relabeled (annotation) also from this hu
 Contributer of that dataset: https://github.com/Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB
 
 # Object Detection (Well Documented Code)
-This object detection's well documented code I got from one youtube course which is available at https://www.youtube.com/watch?v=yqkISICHH-U&list=LL&index=29&t=12011s. I made minor changes in this code.
+This object detection's well documented code I got from one youtube course which is available at https://github.com/nicknochnack/TFODCourse. I made some changes in this code.
 
 # Model
 Pretrained model ssd_resnet50_v1_fpn_640x640_coco17_tpu-8 used to train on defects. Trained on colab GPU with very less number of images. After training more images, it can be a smaller box around the defective thick track.
