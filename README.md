@@ -1,4 +1,4 @@
-# PCB-Defect-Detection (Proof of Concept)
+# PCB-Defect-Detection
 Problem Statement: Automatic Visual Inspection with Custom Object Detection to replace any possible manual visual inspection in PCB manufacturing for common PCB Defects.
 
 # Dataset
