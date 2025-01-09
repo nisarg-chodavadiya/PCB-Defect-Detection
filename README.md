@@ -14,6 +14,6 @@ Contributor of that dataset: https://github.com/Ixiaohuihuihui/Tiny-Defect-Detec
 * It is a synthetic dataset created in photoshop because Collecting 1000s or 100s of defective images could be a disaster for the manufacturing facility.
 * I am using that dataset for the only demonstration purpose in my data science journey rather than any experiments.
 
-# Model 
+# Model Inference Result
 * Trained on Google Colab GPU with a 288 of images having 6 clasees. 
 ![image](https://github.com/user-attachments/assets/9120a20b-a74f-466d-911d-0d19f7cb2f84)
